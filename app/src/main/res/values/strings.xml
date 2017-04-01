@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">কেমিস্ট্রি ২০৪৮</string>
+    <string name="action_settings"></string>
+    <string name="press_back_again_to_exit">গেম থেকে বের হতে আবার ব্যাক বাটন প্রেস করুন</string>
+	<string name="toggle_fullscreen">ফুল স্ক্রিন এ খেলতে লং প্রেস করুন</string>
+	
+</resources>
